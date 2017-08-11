@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke-linecap="round" stroke-linejoin="bevel" opacity="0.97" id="svg_4" d="m21.895,56.311168l35.141125,0l10.858878,-33.383922l10.858884,33.383922l35.141119,0l-28.429715,20.632162l10.85944,33.383922l-28.429727,-20.632724l-28.429721,20.632724l10.859443,-33.383922l-28.429724,-20.632162z" stroke="#000000" fill="#35c4c4"/>
+  <text stroke="#000000" transform="matrix(0.6827757358551025,0,0,0.3710982799530029,37.58488105982542,51.64971000701188) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="47.831776" x="45" stroke-width="0" fill="#000000">MVML</text>
+ </g>
+</svg>
